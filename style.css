@@ -6,7 +6,7 @@ html
   /**background-size:contain; **/ /**  a imagem é redimensionada para encaixar no espaço disponível. **/
   /** background-size:auto; **/  /** a imagem é redimensionada para ser exibida na área disponível, mesmo que ela fique distorcida; **/
   background-size:cover;  
-  background-image: url("fundo4.jpg");
+  background-image: url("AulasSoldeMaio/fundo4.jpg");
 
 }
 
